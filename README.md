@@ -5,7 +5,7 @@
 
 Official Sifi React Native SDK for seamless chat integration with runtime binary downloading.
 
-## 📱 Current Version: v0.0.3
+## 📱 Current Version: v0.0.4
 
 ## Installation
 
@@ -150,5 +150,5 @@ MIT © Sifi
 
 ---
 
-**Latest Release**: v0.0.3 - Initial release with runtime binary downloading  
+**Latest Release**: v0.0.4 - Initial release with runtime binary downloading  
 **Release Date**: 2025-07-14
