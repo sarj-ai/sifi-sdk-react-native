@@ -40,7 +40,7 @@ const configureSdk = () => {
   const sdkManager = SifiSDKManager.getInstance();
   
   sdkManager.configure({
-    chatUrl: 'https://chat.sifi.io/your-chat-id'
+    chatUrl: 'https://www.chat.sarj.ai/sifi'
   });
   
   console.log('SDK configured!');
@@ -86,7 +86,7 @@ export default function App() {
     const sdkManager = SifiSDKManager.getInstance();
     
     sdkManager.configure({
-      chatUrl: 'https://chat.sifi.io/your-chat-id'
+      chatUrl: 'https://www.chat.sarj.ai/sifi'
     });
     
     setIsReady(true);
