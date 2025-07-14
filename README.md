@@ -10,7 +10,13 @@ Official Sifi React Native SDK for seamless chat integration with runtime binary
 ## Installation
 
 ```bash
-npm install @sifi/react-native-sdk react-native-webview
+npm install https://sarj-ai.github.io/sifi-sdk-react-native/releases/latest/sifi-react-native-sdk.tgz react-native-webview
+```
+
+### Alternative Installation (Specific Version)
+
+```bash
+npm install https://sarj-ai.github.io/sifi-sdk-react-native/releases/0.1.2/sifi-react-native-sdk-0.1.2.tgz react-native-webview
 ```
 
 ### iOS Setup
